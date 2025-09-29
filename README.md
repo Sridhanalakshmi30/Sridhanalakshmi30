@@ -1,24 +1,34 @@
-## Hi there 👋
 
-<!--
-# Hey there 👋
 
-## 🙋‍♀️ About Me
-- 🔹 I'm an aspiring Data Analyst & Python Developer  
-- 🔹 Currently learning Web Development (HTML, CSS, JavaScript)  
-- 🔹 Skilled in Python, SQL, and Power BI  
-- 🔹 Passionate about data, analytics, and building impactful projects  
+# Hi there, I'm Sri Dhanalakshmi 👋  
 
-## 🛠️ Languages and Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" alt="GitHub Logo"/>
+</p>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sridhanalakshmi30&show_icons=true&theme=radical)
+## 👩‍💻 About Me  
+- 📊 Aspiring **Data Analyst** with skills in **Python, SQL, and Power BI**  
+- 🌱 Currently learning **Web Development (HTML, CSS, JavaScript, Bootstrap)**  
+- 💡 Interested in combining **data analytics** and **web technologies** to create impactful solutions  
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+## 🛠️ Tech Stack  
+<p align="center">
+  <!-- Data Analytics -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="50" alt="Power BI"/>
+
+  <!-- Web Development -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" />
+</p>
+
+## 📫 Connect With Me  
+<p align="center">
+  <a href="mailto:sris18761@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/></a>
+  <a href="https://github.com/Sridhanalakshmi30/Sridhanalakshmi30"><img src="https://img.icons8.com/glyph-neue/48/github.png" width="40"/></a>
+  <a href="https://linkedin.com/Sri dhanaLakshmi G"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
+</p>
+
