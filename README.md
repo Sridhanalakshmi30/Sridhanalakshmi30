@@ -29,6 +29,6 @@
 <p align="center">
   <a href="mailto:sris18761@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/></a>
   <a href="https://github.com/Sridhanalakshmi30/Sridhanalakshmi30"><img src="https://img.icons8.com/glyph-neue/48/github.png" width="40"/></a>
-  <a href="https://www.linkedin.com/in/sri-dhanalakshmi-g-6b8a1a249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" width="40"/></a>
+  <a href="https://www.linkedin.com/in/sri-dhanalakshmi-g-6b8a1a249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
 </p>
 
